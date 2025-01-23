@@ -1,0 +1,15 @@
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\bin\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.exe
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\bin\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.deps.json
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\bin\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.runtimeconfig.json
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\bin\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\bin\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.pdb
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.AssemblyInfoInputs.cache
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.AssemblyInfo.cs
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.csproj.CoreCompileInputs.cache
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.sourcelink.json
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\refint\lab-1-numeric-computation-in-c-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.pdb
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\lab-1-numeric-computation-in-c-Ajabren.genruntimeconfig.cache
+C:\Users\EVOO\my-code-dir\lab-1-numeric-computation-in-c-Ajabren\obj\Debug\net8.0\ref\lab-1-numeric-computation-in-c-Ajabren.dll
